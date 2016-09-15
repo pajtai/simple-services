@@ -1,0 +1,22 @@
+{
+  "name": "simple-services",
+  "version": "0.1.0",
+  "description": "Dead simple service manager for node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pajtai/simple-services.git"
+  },
+  "keywords": [
+    "services"
+  ],
+  "author": "Peter Ajtai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pajtai/simple-services/issues"
+  },
+  "homepage": "https://github.com/pajtai/simple-services#readme"
+}
